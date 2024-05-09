@@ -152,7 +152,7 @@ img[alt='m-player']{
     color: white;
     line-height: 0.95;
 }
-#border p{
+#border .sub-title{
     font-size: 2vw;
     margin-left: 7%;
     font-weight:bolder;
@@ -294,4 +294,29 @@ button div {
     height: 40px;
     top: 41%;
     right: 19.5%;  
+}
+/* Projects page */
+img[alt='backgrounds2']{
+    height: 75vh;
+    top:10%;
+    background-repeat: no-repeat;
+    opacity: 0.5; 
+    position: absolute;
+    z-index: -1;
+    left: 15%;
+    margin-left: auto;
+    margin-right:auto;
+    object-fit: contain;
+}
+#proj-b{
+    background-color:transparent;
+}
+#proj-tx{
+    font-size: 70%;
+    color: white;
+}
+.card-cover{
+
+    height: 50%;
+    width: 100%;
 }
