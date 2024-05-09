@@ -31,11 +31,9 @@ img[alt='bgimage']{
     margin-top:50% ;
 }
 
-#navbar div:nth-child(2) {
-    margin-bottom: 50%;
-}
+
 #navbar div:nth-child(3) {
-    margin-bottom: 15%;
+    margin-bottom: 20%;
 }
 #navbar div:nth-child(5) {
     margin-top: 90%;
