@@ -7,6 +7,10 @@ body{
     font-style:normal;
     font-weight: bolder;
 }
+.select{
+    color: rgb(255, 230, 0);
+    font-size: 120%;
+}
 img[alt='bgimage']{
     height: 85vh;
     background-repeat: no-repeat;
@@ -235,4 +239,59 @@ h4{
 }
 h2 img{
     height: 80px;
+}
+/* Resume page */
+button div {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(255, 230, 0);
+}
+#grid{
+    color:rgb(255, 230, 0);
+    width: 97vw;
+    height: 85vh;
+    font-size: 190%;
+    
+}  
+#grid b{
+    color: white;
+}  
+#grid-space{
+    height: 79vh;    
+    margin-top: 6.5%;
+}
+.timeline{
+    background-color: rgb(255, 230, 0);
+    position: absolute;
+    width: 60%;
+    height: 5px;
+    top: 43%;
+    left: 20%;
+}
+.point1{
+    background-color: rgb(255, 230, 0);
+    position: absolute;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    top: 41%;
+    left: 19.5%;  
+}
+.point2{
+    background-color: rgb(255, 230, 0);
+    position: absolute;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    top: 41%;
+    left: 48%;  
+}
+.point3{
+    background-color: rgb(255, 230, 0);
+    position: absolute;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    top: 41%;
+    right: 19.5%;  
 }
