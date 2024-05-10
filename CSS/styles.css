@@ -321,3 +321,61 @@ img[alt='backgrounds2']{
     width: 100%;
 }
 /* Tesimonials page */
+.card{
+    font-size: 20px;
+}
+/* contact page */
+img[alt='backgrounds3']{
+    height: 120vh;
+    top: -6%;
+    background-repeat: no-repeat;
+    opacity: 0.5; 
+    position: absolute;
+    z-index: -1;
+    left: 10%;
+    margin-left: auto;
+    margin-right:auto;
+    object-fit: contain;
+}
+b{
+    color: rgb(255, 230, 0);
+}
+#End-title-b{
+    width: 40%;    
+}
+
+#End-title{
+font-size: 850%;
+width: 80%;
+line-height: 0.95;
+margin-top: 13%;
+margin-left:15%
+}
+#Style{
+    color: white;
+}
+#Button-style{
+    background-color: rgb(255, 230, 0);
+    color: black;
+}
+#end-space{
+margin-top: 10%;
+margin-left: 20%;
+}
+#contact-space{
+    margin-left: 16%;
+}
+#contactinfo-space{
+    margin-left: 16%;
+    color: rgb(255, 230, 0) ;
+}
+#end-space input{
+width: 30rem;
+border: rgb(255, 230, 0) solid 1px;
+}
+#Style{
+
+}
+p b {
+    font-size: 35px;
+}
