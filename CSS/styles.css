@@ -321,3 +321,6 @@ img[alt='backgrounds2']{
     width: 100%;
 }
 /* Tesimonials page */
+.card{
+    font-size: 20px;
+}
